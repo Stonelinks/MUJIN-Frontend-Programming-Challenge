@@ -8,8 +8,8 @@ The candidate's grade is calculated by a weighted average of their score on each
 
 Requirement | Weight | Candidate's Score | Comments
 ----------- | ------ | ----------------- | --------
-Properly created a repo | 5 |  | 
-Good commit messages, clear approach to how they solved the problem | 8 |  | 
+Properly created a repo | 4 |  | 
+Good commit messages, clear approach to how they solved the problem | 6 |  | 
 Deployed an app somewhere public on the internet | 4 |  | 
 Created a functional  renderer view | 8 |  | 
 Renderer allows for 3d navigation with mouse | 7 |  | 
@@ -26,7 +26,7 @@ Created a functional list view | 7 |  |
 Created a functional create / delete controls view | 7 |  | 
 Created a functional edit controls view | 7 |  | 
 Code style and cleanliness | 5 |  | 
-Component re-usability and coupling | 6 |  | 
-Dependency management | 4 |  | 
-App deployment | 4 |  | 
-Namespace protection and module loader usage | 3 |  | 
+Component re-usability and coupling | 7 |  | 
+Dependency management | 6 |  | 
+App deployment | 5 |  | 
+Namespace protection and module loader usage | 5 |  | 

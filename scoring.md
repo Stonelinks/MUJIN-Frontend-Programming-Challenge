@@ -1,1 +1,32 @@
- 
+The whole challenge is graded on a scale of 0 to 100. 100 is amazing while a 50 or below is pretty terrible.
+
+Each requirement is scored on a scale of 0 to 10. 0 means the candidate straight up did nothing to meet the requirement while 10 means they fulfilled it in every possible way and did an awesome job at it.
+
+Each requirement is additionally weighted on its relative importance on a scale of 1 to 10. A requirement that is weighted 1 isn't super important, while ones weighted 10 are very important relative to other requirements. 5 is sort of normal importance and is where most requirements should start out.
+
+The candidate's grade is calculated by a weighted average of their score on each requirement and then multiplied by 10. It should be pretty easy to whip up a spreadsheet that does this.
+
+Requirement | Weight | Candidate's Score | Comments
+----------- | ------ | ----------------- | --------
+Properly created a repo | 5 |  | 
+Good commit messages, clear approach to how they solved the problem | 5 |  | 
+Deployed an app somewhere public on the internet | 5 |  | 
+Created a functional  renderer view | 5 |  | 
+Renderer allows for 3d navigation with mouse | 5 |  | 
+Renderer triggers an event when drawable is clicked | 5 |  | 
+Created a functional drawable model | 5 |  | 
+Created a functional drawable collection | 5 |  | 
+Drawables use browser local storage | 5 |  | 
+Application fetches drawables and displays previous state on page reload | 5 |  | 
+Changes in model position and orientation attributes are reflected in other parts of the application | 5 |  | 
+Changes in model color attribute are reflected in other parts of the application | 5 |  | 
+Changes in model name attribute are reflected in other parts of the application | 5 |  | 
+Changes in model geometry attributes are reflected in other parts of the application | 5 |  | 
+Created a functional list view | 5 |  | 
+Created a functional create / delete controls view | 5 |  | 
+Created a functional edit controls view | 5 |  | 
+Code style and cleanliness | 5 |  | 
+Component re-usability and coupling | 5 |  | 
+Dependency management | 5 |  | 
+App deployment | 5 |  | 
+Namespace protection and module loader usage | 5 |  | 

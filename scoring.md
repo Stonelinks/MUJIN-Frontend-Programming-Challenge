@@ -11,7 +11,7 @@ Requirement | Weight | Candidate's Score | Comments
 Properly created a repo | 4 |  | 
 Good commit messages, clear approach to how they solved the problem | 6 |  | 
 Deployed an app somewhere public on the internet | 4 |  | 
-Created a functional  renderer view | 8 |  | 
+Created a functional renderer view | 8 |  | 
 Renderer allows for 3d navigation with mouse | 7 |  | 
 Renderer triggers an event when drawable is clicked | 7 |  | 
 Created a functional drawable model | 8 |  | 
@@ -28,5 +28,10 @@ Created a functional edit controls view | 7 |  |
 Code style and cleanliness | 5 |  | 
 Component re-usability and coupling | 7 |  | 
 Dependency management | 6 |  | 
-App deployment | 5 |  | 
 Namespace protection and module loader usage | 5 |  | 
+Usage of other development tools and dependencies | 5 |  | 
+Overall usage / understanding of backbone | 8 |  | 
+Overall usage / understanding of threejs | 6 |  | 
+Overall usage / understanding of jquery | 7 |  | 
+Overall usage / understanding of underscore | 5 |  | 
+Usage of templates | 6 |  | 
